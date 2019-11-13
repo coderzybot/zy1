@@ -1,0 +1,16 @@
+ssh-keygen -t  rsa -C "1498954677@qq.com"   添加ssh
+git init 创建创库
+git add	 添加文件
+git commit -m  添加描述
+git status  添加描述
+git log --oneline  打印日志
+git reset --hard Head~0
+git reser --hard 版本号
+git reflog 看到提交的版本号
+git branch dev(分支名) 创建新分支
+git branch 查看分支
+git checkout dev 切换新分支
+git merge (分支名) 合并分支
+git branch -d dev 删除当前分支
+git push https://github.com/coderzybot/zy.git master 添加到远程
+git pull https://github.com/coderzybot/zy.git master 克隆到本地
