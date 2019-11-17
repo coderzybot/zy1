@@ -1,16 +1,17 @@
-ssh-keygen -t  rsa -C "1498954677@qq.com"   Ìí¼Óssh
-git init ´´½¨´´¿â
-git add	 Ìí¼ÓÎÄ¼ş
-git commit -m  Ìí¼ÓÃèÊö
-git status  Ìí¼ÓÃèÊö
-git log --oneline  ´òÓ¡ÈÕÖ¾
+ssh-keygen -t  rsa -C "1498954677@qq.com"   æ·»åŠ ssh
+git init åˆ›å»ºåˆ›åº“
+git add	 æ·»åŠ æ–‡ä»¶
+git commit -m  æ·»åŠ æè¿°
+git status  æ·»åŠ æè¿°
+git log --oneline  æ‰“å°æ—¥å¿—
 git reset --hard Head~0
-git reser --hard °æ±¾ºÅ
-git reflog ¿´µ½Ìá½»µÄ°æ±¾ºÅ
-git branch dev(·ÖÖ§Ãû) ´´½¨ĞÂ·ÖÖ§
-git branch ²é¿´·ÖÖ§
-git checkout dev ÇĞ»»ĞÂ·ÖÖ§
-git merge (·ÖÖ§Ãû) ºÏ²¢·ÖÖ§
-git branch -d dev É¾³ıµ±Ç°·ÖÖ§
-git push https://github.com/coderzybot/zy.git master Ìí¼Óµ½Ô¶³Ì
-git pull https://github.com/coderzybot/zy.git master ¿ËÂ¡µ½±¾µØ
+git reser --hard ç‰ˆæœ¬å·
+git reflog çœ‹åˆ°æäº¤çš„ç‰ˆæœ¬å·
+git branch dev(åˆ†æ”¯å) åˆ›å»ºæ–°åˆ†æ”¯
+git branch æŸ¥çœ‹åˆ†æ”¯
+git checkout dev åˆ‡æ¢æ–°åˆ†æ”¯
+git merge (åˆ†æ”¯å) åˆå¹¶åˆ†æ”¯
+git branch -d dev åˆ é™¤å½“å‰åˆ†æ”¯
+git push https://github.com/coderzybot/zy.git master æ·»åŠ åˆ°è¿œç¨‹
+git pull https://github.com/coderzybot/zy.git master å…‹éš†åˆ°æœ¬åœ°
+git clone -b åˆ†æ”¯å+ä»“åº“åœ°å€
